@@ -5,7 +5,7 @@ Jose Demian Jimenez Salgado
 
 
 # ProyectoDispositivosMoviles
-Proyecto tienda depirtiva android
+Proyecto tienda deportiva android
 
 Desarrolado en android Studio con Kotlin y bases de datos Room SQLite
 
